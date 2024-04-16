@@ -1,0 +1,23 @@
+
+- user/admin login js
+
+- petition/complaint/suggestion free text page
+
+- elective course petition(exam excuse) page
+
+- sign up/forgot pages
+
+- see more kaldırılacak, lateral transfer??
+
+- see older(admin page)(date)
+
+- date çekilip içerik üstüne gömülecek(ultra mega basit)
+____________________________
+
+- bütün beyaz olan kısımlar db'den çekilecek
+
+- js ile dinamik olarak güncellenecek
+
+- create new/see more kısmına ihtiyaç olmayacak
+
+- 
